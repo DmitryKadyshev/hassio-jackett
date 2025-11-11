@@ -1,6 +1,6 @@
 {
   "name": "Jackett",
-  "version": "v0.22.2196",
+  "version": "v0.24.275",
   "slug": "hassio_jackett",
   "description" : "An addon to add jackett to hassio",
   "url" : "https://github.com/Sabuto/hassio-jackett",
